@@ -1,6 +1,6 @@
 # AIS8_Final_Project
 - 죽어도 못보내조(7조)
-
+![07 _HRA_ppt_](https://user-images.githubusercontent.com/125840482/236966445-6cd862ad-493d-4332-b7f9-695a008cd04c.jpg)
 
 
 
