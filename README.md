@@ -2,10 +2,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/125840482/236968175-4dcfc8c9-5135-40d0-82ec-19b137496b85.jpg" width="800" height="400"/></p>
 
 # **1-1. 주제**
-
 ## 📌 **HR Data를 활용한 퇴사 예측 모델 구현**
 Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이터를 활용해 퇴사 여부에 영향을 미치는 HR Data를 분석한다. 분석 결과를 통해 인사담당자들에게 인재 유출을 방지하기 위한 지표 개선의 근거를 제공하고자 한다.
-
+<br/><br/>
 
 # **1-2. 주제 선정의 배경**
 
