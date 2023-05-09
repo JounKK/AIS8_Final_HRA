@@ -32,8 +32,8 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 
 ## 💡 직원 1명 당 채용비용 1300만원, 교육비용 6000만원
 
-|<img src="https://user-images.githubusercontent.com/125840482/236966871-3efbea42-d2e4-4e9e-8bcf-7fc540875d59.png" width="400" height="300">|<img src="https://user-images.githubusercontent.com/125840482/236967053-c86774b3-bc0e-44ae-a493-57e7209d833c.png" width="700" height="300">|
-|----|------|
+|<img src="https://user-images.githubusercontent.com/125840482/236966871-3efbea42-d2e4-4e9e-8bcf-7fc540875d59.png" width="400" height="300">|<img src="https://user-images.githubusercontent.com/125840482/236967053-c86774b3-bc0e-44ae-a493-57e7209d833c.png" width="800" height="300">|
+|:----:|:------:|
 |이미지 출처 : [https://www.saramin.co.kr/zf_user/help/live/view?idx=108748&listType=news](https://www.saramin.co.kr/zf_user/help/live/view?idx=108748&listType=news)|이미지 출처 : [https://post.naver.com/viewer/postView.nhn?memberNo=24090434&volumeNo=6470527](https://post.naver.com/viewer/postView.nhn?memberNo=24090434&volumeNo=6470527)|
 
 
