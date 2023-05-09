@@ -49,3 +49,14 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 1. 탐색적 데이터 분석(EDA)을 통해 퇴사 여부 예측 머신러닝 모델 구축
 2. 퇴사 원인을 탐색적으로 파악할 수 있는 시각화 대시보드 제작
 
+# **1-4. 프로젝트 결과물**
+* 결과 정리 노션
+* 결과보고 ppt
+* 시각화 대시보드(링크 참조)
+ * ![image](https://user-images.githubusercontent.com/125840482/236977299-4fac6006-2f9f-4026-8a7e-5477730f51c6.png)
+* HR 데이터 수집 설문 예시
+ * **설문조사 응답자용(임직원)**
+ [[HR]임직원 의견 수렴 조사(설문 응답용)](https://forms.gle/ma7nRXcB7aDQbZCx6)
+
+ * **설문조사 취합용(HR팀)**
+ [[HR]임직원 의견 수렴 조사(HR팀 확인용)](https://forms.gle/U4KLKZiQv3tYEE4D6)
