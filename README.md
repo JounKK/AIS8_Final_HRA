@@ -13,8 +13,7 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 
 ## 💡 이직을 RESPECT, MZ를 중심으로 대퇴사 시대
 <p align="center"><img src="https://user-images.githubusercontent.com/125840482/236966761-134dda8d-4c69-4327-92ae-68331caef7fd.png" width="600" height="350"/></p>
-
-이미지 출처 : 잡코리아
+<p align="center">이미지 출처 : 잡코리아</p>
 
 22년 말, 구인구직 플랫폼 ‘잡코리아’는 ‘**이직을 RESPECT**’한다는 광고를 선보였다. 이는 구인구직 플랫폼의 주 타겟층이 취준생에서 이직(퇴사)을 준비하는 직장인으로 확대되었다는 것을 의미한다. ‘평생직장’이라는 말이 구시대적으로 느껴지는 지금, 이 광고를 통해 우리는 **이직, 퇴사가 첫 직장을 구하는 것만큼 빈번하게 일어나고 있는 시대상**을 볼 수 있다.
 
