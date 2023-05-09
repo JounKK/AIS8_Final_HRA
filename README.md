@@ -8,7 +8,6 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 
 
 
-
 # **1-2. 주제 선정의 배경**
 
 ## 💡 이직을 RESPECT, MZ를 중심으로 대퇴사 시대
@@ -16,6 +15,7 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 <p align="center">이미지 출처 : 잡코리아</p>
 
 22년 말, 구인구직 플랫폼 ‘잡코리아’는 ‘**이직을 RESPECT**’한다는 광고를 선보였다. 이는 구인구직 플랫폼의 주 타겟층이 취준생에서 이직(퇴사)을 준비하는 직장인으로 확대되었다는 것을 의미한다. ‘평생직장’이라는 말이 구시대적으로 느껴지는 지금, 이 광고를 통해 우리는 **이직, 퇴사가 첫 직장을 구하는 것만큼 빈번하게 일어나고 있는 시대상**을 볼 수 있다.
+<br/>
 
 ![image](https://user-images.githubusercontent.com/125840482/236966835-0227b626-fdff-41fe-aa5e-5ed77090e5b5.png)
 
@@ -33,7 +33,7 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 
 
  이러한 상황은 기업 인적자원(HR) 담당자 입장에서 큰 고민거리이다. 조기퇴사자의 증가로 인한 다양한 손해가 있지만 금전적 손실이 특히 크다. 커리어테크 플랫폼 사람인이 기업 499개사를 대상으로 ‘직원 채용 시간과 비용’에 대해 조사한 결과, **직원 1인 채용에 평균 32일, 1,272만원의 비용**이 드는 것으로 조사됐다. 또한, 한국경영자총협회가 2013년 발표한 **대졸 신입사원 1인당 교육 비용은 평균 5960만원**이다. 최문석 한국경영자총연합회 경제조사2팀장은 “교육비용에는 신입사원이 업무 역량을 본격 발휘할 때까지 지급된 월급도 포함된다”며 “조기 퇴사가 늘어나면 기업의 손실도 그만큼 증가할 수밖에 없다”고 말했다.
-
+<br/>
 
 
 ## 💡 HR Analytics : HR 문제, 데이터로 해결하다
@@ -41,7 +41,7 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 이미지 출처 : [https://www.servicenow.com/kr/products/hr-service-delivery/what-is-hr-analytics.html](https://www.servicenow.com/kr/products/hr-service-delivery/what-is-hr-analytics.html)
 
 우리는 퇴사율을 줄이고 리텐션을 높이는 방법, 퇴사의 진짜 원인을 찾고 개선점을 마련하기 위한 방법으로 HR Analytics를 선택했다. **HR Analytics**란 **다양한 방법론과 도구를 활용하여 인적자원 데이터를 분석하고, 사업과 조직의 성과를 향상시키는 의사결정을 지원하는 활동**이다. HR관련 업무는 주로 주관적인 성과 평가 및 민감한 개인정보를 다루기 때문에 데이터를 활용하는 것에 제약이 많았다. 하지만 HR 분야에서의 데이터 기반 의사결정이 직무 만족도 향상, 조직문화 개선, 퇴사율 감소 등 성과를 내기 시작하면서 많은 기업에서 HR Analytics를 도입하고 있다. HR Analytics를 활용한 우수 사례들은 다음과 같다.
-<br>
+<br/>
 
 |HR Analytics 사용사례|  |
 |:---------|------------|
