@@ -7,7 +7,6 @@
 Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이터를 활용해 퇴사 여부에 영향을 미치는 HR Data를 분석한다. 분석 결과를 통해 인사담당자들에게 인재 유출을 방지하기 위한 지표 개선의 근거를 제공하고자 한다.
 
 
-
 # **1-2. 주제 선정의 배경**
 
 ## 💡 이직을 RESPECT, MZ를 중심으로 대퇴사 시대
@@ -15,7 +14,8 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 <p align="center">이미지 출처 : 잡코리아</p>
 
 22년 말, 구인구직 플랫폼 ‘잡코리아’는 ‘**이직을 RESPECT**’한다는 광고를 선보였다. 이는 구인구직 플랫폼의 주 타겟층이 취준생에서 이직(퇴사)을 준비하는 직장인으로 확대되었다는 것을 의미한다. ‘평생직장’이라는 말이 구시대적으로 느껴지는 지금, 이 광고를 통해 우리는 **이직, 퇴사가 첫 직장을 구하는 것만큼 빈번하게 일어나고 있는 시대상**을 볼 수 있다.
-<br/>
+
+
 
 ![image](https://user-images.githubusercontent.com/125840482/236966835-0227b626-fdff-41fe-aa5e-5ed77090e5b5.png)
 
