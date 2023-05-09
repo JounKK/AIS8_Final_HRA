@@ -1,5 +1,5 @@
 # AIS8_Final_Project
-<img src="https://user-images.githubusercontent.com/125840482/236968175-4dcfc8c9-5135-40d0-82ec-19b137496b85.jpg" width="800" height="600"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/125840482/236968175-4dcfc8c9-5135-40d0-82ec-19b137496b85.jpg" width="800" height="400"/></p>
 
 # **1-1. 주제**
 
