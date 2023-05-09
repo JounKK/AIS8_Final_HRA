@@ -46,8 +46,9 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 이미지 출처 : [https://www.servicenow.com/kr/products/hr-service-delivery/what-is-hr-analytics.html](https://www.servicenow.com/kr/products/hr-service-delivery/what-is-hr-analytics.html)
 우리는 퇴사율을 줄이고 리텐션을 높이는 방법, 퇴사의 진짜 원인을 찾고 개선점을 마련하기 위한 방법으로 HR Analytics를 선택했다. **HR Analytics**란 **다양한 방법론과 도구를 활용하여 인적자원 데이터를 분석하고, 사업과 조직의 성과를 향상시키는 의사결정을 지원하는 활동**이다. HR관련 업무는 주로 주관적인 성과 평가 및 민감한 개인정보를 다루기 때문에 데이터를 활용하는 것에 제약이 많았다. 하지만 HR 분야에서의 데이터 기반 의사결정이 직무 만족도 향상, 조직문화 개선, 퇴사율 감소 등 성과를 내기 시작하면서 많은 기업에서 HR Analytics를 도입하고 있다. HR Analytics를 활용한 우수 사례들은 다음과 같다.
 
-|----|----|
-|<img src="https://user-images.githubusercontent.com/125840482/236967322-e2f528b6-aac9-47bb-9d8a-c1d3b9ac5061.png" width="300" height="400"> 이미지 출처 : [https://www.etoday.co.kr/news/view/1747355](https://www.etoday.co.kr/news/view/1747355)| 1. **퇴사 예측 인공지능**
+
+| <img src="https://user-images.githubusercontent.com/125840482/236967322-e2f528b6-aac9-47bb-9d8a-c1d3b9ac5061.png" width="300" height="400"> 
+이미지 출처 : [https://www.etoday.co.kr/news/view/1747355](https://www.etoday.co.kr/news/view/1747355) | 1. **퇴사 예측 인공지능**
 : IBM은 퇴사할 직원을 95% 정확도로 예측할 수 있는 인공지능을 개발했다. ‘선제적 소모 프로그램(Predictive Attrition Program)‘으로 불리는 이 기술은 퇴사 리스크가 있는 직원을 AI가 추려내 관리자들이 대체 인력을 선제적으로 고용할 수 있도록 하는 프로그램이다. 이 기술로 IBM은 지금까지 약 3억 달러(약 3400억 원)의 비용을 절감했다. |
 |---|---|
 |1. **HR 시각화 대시보드**
