@@ -48,6 +48,7 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 
 |![image](https://user-images.githubusercontent.com/125840482/236967322-e2f528b6-aac9-47bb-9d8a-c1d3b9ac5061.png)이미지 출처 : [https://www.etoday.co.kr/news/view/1747355](https://www.etoday.co.kr/news/view/1747355)|1. **퇴사 예측 인공지능**
 : IBM은 퇴사할 직원을 95% 정확도로 예측할 수 있는 인공지능을 개발했다. ‘선제적 소모 프로그램(Predictive Attrition Program)‘으로 불리는 이 기술은 퇴사 리스크가 있는 직원을 AI가 추려내 관리자들이 대체 인력을 선제적으로 고용할 수 있도록 하는 프로그램이다. 이 기술로 IBM은 지금까지 약 3억 달러(약 3400억 원)의 비용을 절감했다.|
+|---|---|
 |1. **HR 시각화 대시보드**
 : 다양한 HR 데이터를 대시보드로 제작해 전 직원을 효율적으로 관리할 수 있다. 이는 실무진이 실시간 HR 데이터를 살펴보며 개인, 조직, 회사의 개선 사항이 무엇인지 단계별로 찾을 수 있도록 도와준다. 이를 테면, 퇴사율이 높은 직무를 중심으로 퇴사 원인을 탐색하여 일괄적인 해결방안(ex. 연봉상승) 대신 구체적인 조치를 취할 수 있다.|![image](https://user-images.githubusercontent.com/125840482/236967300-22b7ad7f-bbac-4ad8-ae00-7dfa02372265.png)이미지 출처 : [https://www.simplesheets.co/hr-metrics-dashboard](https://www.simplesheets.co/hr-metrics-dashboard)|
 
