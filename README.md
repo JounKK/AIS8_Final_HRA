@@ -1,5 +1,5 @@
 # AIS8_Final_Project
-![07 _HRA_ppt_](https://user-images.githubusercontent.com/125840482/236966445-6cd862ad-493d-4332-b7f9-695a008cd04c.jpg)]{: width="1000" height="1000"}
+![07 _HRA_ppt_](https://user-images.githubusercontent.com/125840482/236966445-6cd862ad-493d-4332-b7f9-695a008cd04c.jpg){: width="1000" height="1000"}
 
 
 
