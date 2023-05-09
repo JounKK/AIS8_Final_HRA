@@ -31,13 +31,9 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
  
 
 ## 💡 직원 1명 당 채용비용 1300만원, 교육비용 6000만원
-
-![image](https://user-images.githubusercontent.com/125840482/236966871-3efbea42-d2e4-4e9e-8bcf-7fc540875d59.png)
-
+<img src="https://user-images.githubusercontent.com/125840482/236966871-3efbea42-d2e4-4e9e-8bcf-7fc540875d59.png" width="300" height="300">
 이미지 출처 : [https://www.saramin.co.kr/zf_user/help/live/view?idx=108748&listType=news](https://www.saramin.co.kr/zf_user/help/live/view?idx=108748&listType=news)
-
-![image](https://user-images.githubusercontent.com/125840482/236967053-c86774b3-bc0e-44ae-a493-57e7209d833c.png)
-
+<img src="https://user-images.githubusercontent.com/125840482/236967053-c86774b3-bc0e-44ae-a493-57e7209d833c.png" width="300" height="300">
 이미지 출처 : [https://post.naver.com/viewer/postView.nhn?memberNo=24090434&volumeNo=6470527](https://post.naver.com/viewer/postView.nhn?memberNo=24090434&volumeNo=6470527)
 
  이러한 상황은 기업 인적자원(HR) 담당자 입장에서 큰 고민거리이다. 조기퇴사자의 증가로 인한 다양한 손해가 있지만 금전적 손실이 특히 크다. 커리어테크 플랫폼 사람인이 기업 499개사를 대상으로 ‘직원 채용 시간과 비용’에 대해 조사한 결과, **직원 1인 채용에 평균 32일, 1,272만원의 비용**이 드는 것으로 조사됐다. 또한, 한국경영자총협회가 2013년 발표한 **대졸 신입사원 1인당 교육 비용은 평균 5960만원**이다. 최문석 한국경영자총연합회 경제조사2팀장은 “교육비용에는 신입사원이 업무 역량을 본격 발휘할 때까지 지급된 월급도 포함된다”며 “조기 퇴사가 늘어나면 기업의 손실도 그만큼 증가할 수밖에 없다”고 말했다.
