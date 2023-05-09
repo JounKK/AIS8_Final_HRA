@@ -12,8 +12,7 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 # **1-2. 주제 선정의 배경**
 
 ## 💡 이직을 RESPECT, MZ를 중심으로 대퇴사 시대
-
-![image](https://user-images.githubusercontent.com/125840482/236966761-134dda8d-4c69-4327-92ae-68331caef7fd.png)
+<center><img src="[https://user-images.githubusercontent.com/125840482/236968175-4dcfc8c9-5135-40d0-82ec-19b137496b85.jpg](https://user-images.githubusercontent.com/125840482/236966761-134dda8d-4c69-4327-92ae-68331caef7fd.png)" width="800" height="400"/></center>
 
 이미지 출처 : 잡코리아
 
